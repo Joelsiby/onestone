@@ -3,7 +3,7 @@ import { useState } from "react";
 import Navbar from "./components/Navbar";
 import ScrollTextSection from "./components/ScrollTextSection";
 import TextRevealSection from "./components/TextRevealSection";
-import HeroSection from "./components/Herosection";
+import HeroSection from "./components/HeroSection";
 import Contact from "./components/Contact"; // Make sure this path is correct
 
 function App() {
