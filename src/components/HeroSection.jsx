@@ -246,7 +246,7 @@ function CursorWheel({ isMobile }) {
   });
   const currentRef = useRef({
     x: window.innerWidth / 2,
-    y: window.innerHeight / 2,git init
+    y: window.innerHeight / 2,
   });
   const rafRef = useRef(null);
   const hasEnteredRef = useRef(false);
